@@ -1,0 +1,11 @@
+1.open the catkin_ws folder
+2.open the src folder
+3.open the package Task_3
+4.open the launch folder
+5.open a terminal in launch folder
+6.execute the command "roslaunch Task_3 launcher.launch" (pls remove quotes before executing)
+7.open the scripts folder
+8.open a terminal in scripts folder
+9.execute the command "python3 main.py"(pls remove quotes before executing)
+
+I used the formula for elliptical orbit from wikipedia but it did not work,i tried my very best but it turns out im bad at physics but I still had fun watching turtles spiral :)
