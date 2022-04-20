@@ -1,0 +1,5 @@
+<launch>
+<node pkg="turtlesim" type="turtlesim_node" name="sim"/>
+<node name="initiator" pkg="Task_3" type="initiator.py" output="screen"/>
+<node name="controller" pkg="Task_3" type="main.py" output="screen"/>
+</launch>
