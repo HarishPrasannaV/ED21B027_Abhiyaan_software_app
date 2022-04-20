@@ -1,0 +1,12 @@
+1.open the catkin_ws folder
+2.open the src folder
+3.open the package Task_2
+4.open the launch folder
+5.open a terminal in launch folder
+6.execute the command "roslaunch Task_2 node_launcher.launch" (pls remove quotes before executing)
+7.open the scripts folder
+8.open a terminal in scripts folder
+9.execute the command "python3 node3.py"(pls remove quotes before executing)
+10.open another terminal
+11.execute the command "rostopic echo /naayihba_maet "(pls remove quotes before executing)
+12.you can now see the data being published by node 3

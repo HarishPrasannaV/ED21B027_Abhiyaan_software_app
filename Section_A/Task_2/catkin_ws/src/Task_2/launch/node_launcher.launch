@@ -1,0 +1,4 @@
+<launch>
+	<node name="node1" pkg="Task_2" type="node1.py" output="screen"/>
+	<node name="node2" pkg="Task_2" type="node2.py" output="screen"/>
+</launch>	

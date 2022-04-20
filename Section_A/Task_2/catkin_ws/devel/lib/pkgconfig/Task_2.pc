@@ -1,0 +1,8 @@
+prefix=/home/pomo/Desktop/catkin_ws/devel
+
+Name: Task_2
+Description: Description of Task_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
